@@ -1,0 +1,105 @@
+.wholediv {
+  min-height: 800px;
+}
+
+.fruitdiv {
+  display: flex;
+  justify-content: space-between;
+  max-width: 980px;
+  min-height: 100px;
+  margin: 0 auto;
+  margin-bottom: 300px;
+  padding-top: 100px;
+}
+
+.fruittext_1 {
+  margin-top: 200px;
+  margin-bottom: 30px;
+  font-family: "AppleSDGothic", "Pretendard", "Malgun Gothic", "dotum", "돋움",
+    "gulim", "굴림", "Tahoma";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 60px;
+  text-align: left;
+}
+
+.fruittext_2 {
+  font-family: "AppleSDGothic", "Pretendard", "Malgun Gothic", "dotum", "돋움",
+    "gulim", "굴림", "Tahoma";
+  font-style: normal;
+  font-weight: 550;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: left;
+  margin-left: 8px;
+}
+
+.fruitbutton {
+  width: 440px;
+  height: 90px;
+  margin-top: 114px;
+  border-radius: 20px;
+  font-family: "AppleSDGothic", "Pretendard", "Malgun Gothic", "dotum", "돋움",
+    "gulim", "굴림", "Tahoma";
+  font-size: 25px;
+  font-weight: 700;
+  background-color: black;
+  color: white;
+}
+
+.valuetextdiv {
+  margin: 0 auto;
+  padding-top: 280px;
+  padding-bottom: 250px;
+}
+
+.valuetext_1 {
+  font-family: "AppleSDGothic", "Pretendard", "Malgun Gothic", "dotum", "돋움",
+    "gulim", "굴림", "Tahoma";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 61px;
+  text-align: center;
+}
+
+.valuetext_2 {
+  margin-top: 20px;
+  font-family: "AppleSDGothic", "Pretendard", "Malgun Gothic", "dotum", "돋움",
+    "gulim", "굴림", "Tahoma";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+  text-align: right;
+}
+
+.reviewtext_1 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-family: "AppleSDGothic", "Pretendard", "Malgun Gothic", "dotum", "돋움",
+    "gulim", "굴림", "Tahoma";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: left;
+}
+
+.communitybutton {
+  width: 300px;
+  height: 80px;
+  border-radius: 20px;
+  font-family: "AppleSDGothic", "Pretendard", "Malgun Gothic", "dotum", "돋움",
+    "gulim", "굴림", "Tahoma";
+  font-size: 25px;
+  font-weight: 700;
+  background-color: black;
+  color: white;
+}
+
+.reviewCarousel {
+  min-height: 100px;
+  margin-bottom: 300px;
+}
